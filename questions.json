@@ -1,0 +1,802 @@
+[
+  {
+    "question": "The power to form new states or change the boundaries of existing states rests with",
+    "option1": "the Parliament",
+    "option2": "the President",
+    "option3": "the Election Commission",
+    "option4": "none of these",
+    "": ""
+  },
+  {
+    "question": "The states were reorganized on linguistic basis in",
+    "option1": 1956,
+    "option2": 1966,
+    "option3": 1951,
+    "option4": 1947,
+    "": ""
+  },
+  {
+    "question": "Which state enjoys the distinction of be the first linguistic state of India?",
+    "option1": "Andhra Pradesh",
+    "option2": "West Bengal",
+    "option3": "Tamil Nadu",
+    "option4": "Punjab",
+    "": ""
+  },
+  {
+    "question": "The structure of administration in various union territories",
+    "option1": "is determined by the Parliament",
+    "option2": "has been prescribed in the Constitution",
+    "option3": "is determined by the Union Home Minister",
+    "option4": "is determined by the President",
+    "": ""
+  },
+  {
+    "question": "The administrators of Union Territories are designated as",
+    "option1": "Lieutenant Governor",
+    "option2": "Chief Commissioners",
+    "option3": "Administrators",
+    "option4": "all these",
+    "": ""
+  },
+  {
+    "question": "What is the maximum percentage of jobs that can be reserved by a state for backward class",
+    "option1": "50%",
+    "option2": "75%",
+    "option3": "22.50%",
+    "option4": "27%",
+    "": ""
+  },
+  {
+    "question": "The President can dismiss a member of the Council of Ministers",
+    "option1": "on the recommendation of the Prime Minister",
+    "option2": "at his discretion",
+    "option3": "with the consent of the Speaker",
+    "option4": "none of these",
+    "": ""
+  },
+  {
+    "question": "The President of India is bound to follow the advice given by the",
+    "option1": "Union Council of Ministers",
+    "option2": "Prime Minister of India",
+    "option3": "Chief Justice of India",
+    "option4": "Attorney General of India",
+    "": ""
+  },
+  {
+    "question": "The ministers hold office during the pleasure of the President which in fact means during the",
+    "option1": "the Prime Minister",
+    "option2": "the parliament",
+    "option3": "the Lok Sabha",
+    "option4": "None of these",
+    "": ""
+  },
+  {
+    "question": "A member of a Parliament or a state legislature can be elected as President but",
+    "option1": "he has to resign his seat before contesting the election",
+    "option2": "he has to relinquish his seat as soon as he is elected",
+    "option3": "he has to relinquish his seat within six months of his election",
+    "option4": "a member of Parliament can contest but a member of state legislature cannot contest",
+    "": ""
+  },
+  {
+    "question": "The Presidential address is prepared by",
+    "option1": "the Prime Minister and his Cabinet",
+    "option2": "the Special Secretary of the President",
+    "option3": "the Minister for Parliamentary Affairs",
+    "option4": "a Cabinet Minister of the President's choice",
+    "": ""
+  },
+  {
+    "question": "To which of the following bills must the President accord his sanction without sending it back",
+    "option1": "Money Bills",
+    "option2": "Ordinary Bills",
+    "option3": "bills seeking amendment to the Constitution",
+    "option4": "bills passed by both the houses of Parliament",
+    "": ""
+  },
+  {
+    "question": "After a bill is passed by the Parliament it is sent to the President for his assent, who can return it",
+    "option1": "has to sign it",
+    "option2": "can send the bill to the Parliament for reconsideration for the second time",
+    "option3": "can submit the same to the people for referendum",
+    "option4": "can get it nullified through the Supreme Court",
+    "": ""
+  },
+  {
+    "question": "The defeat of government in Rajya Sabha leads to",
+    "option1": "None of these",
+    "option2": "its dismissal by the President",
+    "option3": "resignation of the Prime Minister",
+    "option4": "advice by the President to the Prime Minister to relinquish office",
+    "": ""
+  },
+  {
+    "question": "The minimum age at which a person can be appointed Prime Minister of India is",
+    "option1": "25 years",
+    "option2": "21 years",
+    "option3": "30 years",
+    "option4": "35 years",
+    "": ""
+  },
+  {
+    "question": "In the event of the resignation or death of the Prime Minister",
+    "option1": "the Council of Ministers stands automatically dissolved",
+    "option2": "the senior most member of the Council of Ministers automatically becomes the Prime",
+    "option3": "The Lok Sabha stands automatically dissolved and fresh elections must be held within",
+    "option4": "the President can take any of the above actions wrong",
+    "": ""
+  },
+  {
+    "question": "Who can dissolve the Lok Sabha before the expiry of its normal term of five years?",
+    "option1": "the President on the recommendation of the Prime Minister",
+    "option2": "the Prime Minister",
+    "option3": "the President",
+    "option4": "the President on the recommendation of the Speaker",
+    "": ""
+  },
+  {
+    "question": "The President can call a joint session of the two houses of Parliament",
+    "option1": "under all these conditions",
+    "option2": "if a bill passed by one house is rejected by the other",
+    "option3": "if the amendment proposed to the bill by one house is not acceptable to the other house",
+    "option4": "if the house does not take any action for six months on a bill remitted by other house",
+    "": ""
+  },
+  {
+    "question": "Who presides over the joint sessions of the Parliament?",
+    "option1": "the Speaker",
+    "option2": "the Vice-President",
+    "option3": "the President",
+    "option4": "the Speaker and Vice-President by rotation",
+    "": ""
+  },
+  {
+    "question": "The Speaker of the Lok Sabha makes use of his casting vote only",
+    "option1": "in case of a tie, viz., when the votes are equally divided",
+    "option2": "to save the existing government",
+    "option3": "in case of constitutional amendments",
+    "option4": "in case of emergency",
+    "": ""
+  },
+  {
+    "question": "Lok Sabha passes vote on account to",
+    "option1": "meet the expenditure during the period between the introduction of Budget and its",
+    "option2": "to meet expenditure on secret services",
+    "option3": "to enable the government to spend on unexpected demands",
+    "option4": "assert its supremacy over finances",
+    "": ""
+  },
+  {
+    "question": "Who convenes the joint sessions of the Lok Sabha and Rajya Sabha?",
+    "option1": "the President",
+    "option2": "the Speaker",
+    "option3": "",
+    "option4": "the Chairman of the Rajya Sabha",
+    "": "the Minister for Parliamentary Affairs"
+  },
+  {
+    "question": "The maximum gap between the two sessions of Parliament",
+    "option1": "six months",
+    "option2": "three months",
+    "option3": "four months",
+    "option4": "nine months",
+    "": ""
+  },
+  {
+    "question": "A Money Bill passed by the Lok Sabha can be delayed by the Rajya Sabha for a maximum",
+    "option1": "14 days",
+    "option2": "one month",
+    "option3": "two months",
+    "option4": "three months",
+    "": ""
+  },
+  {
+    "question": "What happens if a Money Bill passed by the Lok Sabha is partially amended by the Rajya",
+    "option1": "the Lok Sabha can proceed with the Bill without the amendments proposed by the Rajya",
+    "option2": "a joint sitting of the two houses is called to resolve the differences",
+    "option3": "the bill lapses",
+    "option4": "The Lok Sabha has to send back the bill for the reconsideration of the Rajya Sabha",
+    "": ""
+  },
+  {
+    "question": "A Money Bill can originate",
+    "option1": "only in the Lok Sabha",
+    "option2": "in either house of Parliament",
+    "option3": "only in the Rajya Sabha",
+    "option4": "only in a joint sitting of the two houses",
+    "": ""
+  },
+  {
+    "question": "Which one of the following sets of Bills is presented to the Parliament along with the Budget?",
+    "option1": "Finance Bill and Appropriation Bill",
+    "option2": "Contingency Bill and Appropriation Bill",
+    "option3": "Finance Bill and Contingency Bill",
+    "option4": "Direct Taxes and Indirect Taxes Bill",
+    "": ""
+  },
+  {
+    "question": "The Council of Ministers has to tender its resignation if a vote of no-confidence is passed",
+    "option1": "by the Lok Sabha",
+    "option2": "by the Rajya Sabha",
+    "option3": "by the two houses at a joint sitting",
+    "option4": "by the two houses of Parliament by two thirds majority",
+    "": ""
+  },
+  {
+    "question": "Who decides whether a bill is a Money Bill or not?",
+    "option1": "Speaker of Lok Sabha",
+    "option2": "Prime Minister",
+    "option3": "President",
+    "option4": "select Parliamentary Committee",
+    "": ""
+  },
+  {
+    "question": "The Parliament of India cannot be considered a sovereign body because",
+    "option1": "laws passed by the Parliament can be declared unconstitutional by the Supreme Court",
+    "option2": "its authority is confined to jurisdiction earmarked by the Constitution",
+    "option3": "of the presence of certain Fundamental Rights of citizens in the constitution",
+    "option4": "of all these factors",
+    "": ""
+  },
+  {
+    "question": "In case of differences between the two houses of Parliament over a bill, a joint session of the",
+    "option1": "the Speaker can make use of his casting vote",
+    "option2": "the bill is again submitted to vote of the two houses at a joint sitting after a gap of four",
+    "option3": "the Chairman of the Rajya Sabha can make use of his casting vote",
+    "option4": "The bill is shelved for the session and taken up for consideration at the next session",
+    "": ""
+  },
+  {
+    "question": "The Prime Minister is the link between",
+    "option1": "the President of India and Union Council of Ministers",
+    "option2": "the President of India and both the Houses of Parliament",
+    "option3": "the Legislature and the Executive",
+    "option4": "All these",
+    "": ""
+  },
+  {
+    "question": "The size of the Council of Ministers at the centre decided by the strength of the",
+    "option1": "Lok Sabha",
+    "option2": "parliament",
+    "option3": "Rajya Sabha",
+    "option4": "No such restriction",
+    "": ""
+  },
+  {
+    "question": "The size of the Ministry in a state is decided by the",
+    "option1": "Members of the Legislative Assembly",
+    "option2": "Chief Minister",
+    "option3": "Governor",
+    "option4": "None of these",
+    "": ""
+  },
+  {
+    "question": "The seat of a member of the house declared vacant if he or she is",
+    "option1": "absent to the session continuously for sixty days without prior notice and permission",
+    "option2": "if indulges in anti-party activity",
+    "option3": "if accused of an offence for which the life or death punishment may be awarded",
+    "option4": "None of these",
+    "": ""
+  },
+  {
+    "question": "Which of the following is not explicitly stated in the Constitution of India but followed as a",
+    "option1": "The Prime Minister has to resign if he loses majority in the Lower House",
+    "option2": "The Finance Minister is to be a member of the Lower House",
+    "option3": "All the parts of India are to be represented in the Council of Ministers",
+    "option4": "The Speaker of the Lok Sabha officiate as President of India in the absence of both the",
+    "": ""
+  },
+  {
+    "question": "If the Prime Minister of India belonged to the Uppers House of Parliament",
+    "option1": "he will not be able to vote in his favour in the event of no confidence motion",
+    "option2": "he will not be able to speak on the budget in the Lower House",
+    "option3": "he can make statements only in the Upper House",
+    "option4": "he has to become a member of the Lower House within six months after being sworn in",
+    "": ""
+  },
+  {
+    "question": "What is the duration of Zero Hour in the Lok Sabha",
+    "option1": "One hour",
+    "option2": "30 minutes",
+    "option3": "15 minutes",
+    "option4": "none of these",
+    "": ""
+  },
+  {
+    "question": "According to the Preamble, our Constitution envisages",
+    "option1": "All these",
+    "option2": "Economic justice",
+    "option3": "Social justice",
+    "option4": "Political Justice",
+    "": ""
+  },
+  {
+    "question": "The Union Budget is presented to the Parliament normally on",
+    "option1": "the last day of February",
+    "option2": "the last day of March",
+    "option3": "15th March",
+    "option4": "1st April",
+    "": ""
+  },
+  {
+    "question": "The maximum permissible interval between two sessions of Parliament as prescribed in our",
+    "option1": "06 months",
+    "option2": "03 months",
+    "option3": "One year",
+    "option4": "09 months",
+    "": ""
+  },
+  {
+    "question": "The Constitution of India does not mention the post of",
+    "option1": "Deputy Prime Minister of India",
+    "option2": "Deputy Speaker of Lok Sabha",
+    "option3": "Deputy Chairperson of Rajya Sabha",
+    "option4": "All these",
+    "": ""
+  },
+  {
+    "question": "India is a Republic, because",
+    "option1": "the head of the State is elected for a fixed tenure",
+    "option2": "it is a member of commonwealth",
+    "option3": "it has an elected parliament",
+    "option4": "it has a written Constitution",
+    "": ""
+  },
+  {
+    "question": "Indian Constitution provides for a",
+    "option1": "Bicameral system",
+    "option2": "Presidential System",
+    "option3": "Unicameral system",
+    "option4": "Unitary System",
+    "": ""
+  },
+  {
+    "question": "An interpretation of the Indian Constitution is based on the spirit of the",
+    "option1": "Preamble",
+    "option2": "Directive Principles of State Policies",
+    "option3": "Fundamental Rights",
+    "option4": "Fundamental Duties",
+    "": ""
+  },
+  {
+    "question": "The size of the Council of Ministers is decided by",
+    "option1": "Strength of Lok Sabha",
+    "option2": "Parliament",
+    "option3": "Election Commission",
+    "option4": "President of India",
+    "": ""
+  },
+  {
+    "question": "The words 'socialist secular' and 'and integrity' were added to the Preamble of Indian",
+    "option1": "42nd",
+    "option2": "44th",
+    "option3": "25th",
+    "option4": "none of these",
+    "": ""
+  },
+  {
+    "question": "Indian Constitution has emphasized on securing social, economic and political justice to the",
+    "option1": "Welfare State",
+    "option2": "Secular State",
+    "option3": "Sovereign State",
+    "option4": "Developed State",
+    "": ""
+  },
+  {
+    "question": "Who describes the Prime Minister of India as 'Primus Inter Pares' (first among equals)?",
+    "option1": "Lord Morley",
+    "option2": "Sir William Vernon",
+    "option3": "Harold Laski",
+    "option4": "K. M. Munshi",
+    "": ""
+  },
+  {
+    "question": "The President will decide the question as to disqualification of the Members of Parliament in",
+    "option1": "Election Commission",
+    "option2": "Prime Minister",
+    "option3": "Speaker",
+    "option4": "Chief Justice of Inida",
+    "": ""
+  },
+  {
+    "question": "Which article provides that there shall be the Prime Minister of India?",
+    "option1": "Art. 74",
+    "option2": "Art. 52",
+    "option3": "Art. 124",
+    "option4": "Art. 153",
+    "": ""
+  },
+  {
+    "question": "Who announces the Government policies on the floor of the House?",
+    "option1": "Prime Minister",
+    "option2": "Speaker of the Lok Sabha",
+    "option3": "President",
+    "option4": "Finance Minister",
+    "": ""
+  },
+  {
+    "question": "Who presides over the meetings of the Union Council of Ministers?",
+    "option1": "Prime Minister",
+    "option2": "President",
+    "option3": "Speaker of Lok Sabha",
+    "option4": "Vice President",
+    "": ""
+  },
+  {
+    "question": "Council of Ministers shall hold the office during the pleasure of",
+    "option1": "President",
+    "option2": "Members of the House",
+    "option3": "Speaker",
+    "option4": "Prime Minister",
+    "": ""
+  },
+  {
+    "question": "Budget in India Constitution is classified into",
+    "option1": "Two types",
+    "option2": "Three types",
+    "option3": "Four types",
+    "option4": "No such classification",
+    "": ""
+  },
+  {
+    "question": "Who among the following is referred as one of the officers of the parliament",
+    "option1": "Deputy Speaker",
+    "option2": "Prime Minister",
+    "option3": "Council of Minister",
+    "option4": "None of these",
+    "": ""
+  },
+  {
+    "question": "Joint session is called in case of dead lock between the two Houses of the Parliament with",
+    "option1": "Both Ordinary and Financial Bill",
+    "option2": "Money Bill",
+    "option3": "Financial Bill",
+    "option4": "Ordinary Bill",
+    "": ""
+  },
+  {
+    "question": "According to the 91st Constitutional Amendment of 2003, the total strength of the Council of",
+    "option1": "15%",
+    "option2": "10%",
+    "option3": "25%",
+    "option4": "22.50%",
+    "": ""
+  },
+  {
+    "question": "The President of India can nominate to the Rajya Sabha",
+    "option1": "12 members",
+    "option2": "20 members",
+    "option3": "08 members",
+    "option4": "None",
+    "": ""
+  },
+  {
+    "question": "The number of Ministers in the Central Government is fixed by the",
+    "option1": "Prime Minister",
+    "option2": "President",
+    "option3": "Parliament",
+    "option4": "Speaker",
+    "": ""
+  },
+  {
+    "question": "The salaries and allowances of the members of the Council of Ministers",
+    "option1": "are determined by the Parliament from time to time",
+    "option2": "have been stipulated in the Constitution",
+    "option3": "are determined by the President in consultation with the Prime Minister",
+    "option4": "are fixed by the President in consultation with the Speaker",
+    "": ""
+  },
+  {
+    "question": "The power to control the expenditure of the Government of India rests exclusively with",
+    "option1": "the Comptroller and Auditor General",
+    "option2": "the Parliament",
+    "option3": "the President",
+    "option4": "the Union Finance Minister",
+    "": ""
+  },
+  {
+    "question": "Who will appoint the Chief Minister of a State?",
+    "option1": "Governor of that State",
+    "option2": "Prime Minister of India",
+    "option3": "President of India",
+    "option4": "Chief Justice of High Court of that State",
+    "": ""
+  },
+  {
+    "question": "The Chief Minister, who is the head of the government in a state, is",
+    "option1": "appointed by the governor of that state",
+    "option2": "elected by the state legislature",
+    "option3": "appointed by the President",
+    "option4": "appointed by the governor on the advice of Chief Justice of the High Court",
+    "": ""
+  },
+  {
+    "question": "Who of the following is regarded the head of the state council of ministers?",
+    "option1": "the Chief Minister",
+    "option2": "the Governor",
+    "option3": "the Speaker",
+    "option4": "none of these",
+    "": ""
+  },
+  {
+    "question": "A member of the council of ministers can hold office without being a member of the state",
+    "option1": "six months",
+    "option2": "three months",
+    "option3": "one year",
+    "option4": "two years",
+    "": ""
+  },
+  {
+    "question": "Who among the following enjoys the distinction of being the first woman Dalit Chief Minister",
+    "option1": "Mayawati",
+    "option2": "Nandani Satpati",
+    "option3": "PadmajaNaidu",
+    "option4": "Sarojani Naidu",
+    "": ""
+  },
+  {
+    "question": "Some of the Indian states have bi-cameral legislatures. The names of the two houses of state",
+    "option1": "Legislative Assembly and Legislative Council",
+    "option2": "Sabha and Samiti",
+    "option3": "Lok Sabha and Legislative Council",
+    "option4": "the Legislative Assembly and Senate",
+    "": ""
+  },
+  {
+    "question": "The members of the legislative assembly are",
+    "option1": "elected by the people",
+    "option2": "elected by the local bodies",
+    "option3": "nominated by the Governor",
+    "option4": "returned through all three methods",
+    "": ""
+  },
+  {
+    "question": "The chairman of the legislative council is",
+    "option1": "elected by the members of legislative council",
+    "option2": "appointed by the governor",
+    "option3": "an ex-officio presiding officer",
+    "option4": "appointed by the speaker of legislative assembly",
+    "": ""
+  },
+  {
+    "question": "The states enjoy exclusive jurisdiction on subjects in the",
+    "option1": "state list",
+    "option2": "concurrent list",
+    "option3": "both (a) and (b)",
+    "option4": "none of the above",
+    "": ""
+  },
+  {
+    "question": "The central government can assign any function to the state with the consent of",
+    "option1": "the Parliament",
+    "option2": "the President",
+    "option3": "the Chief Justice of India",
+    "option4": "the state government",
+    "": ""
+  },
+  {
+    "question": "Which type of global citizen emphasizes international law and human rights?",
+    "option1": "Legal",
+    "option2": "Economic",
+    "option3": "Social",
+    "option4": "Local",
+    "": ""
+  },
+  {
+    "question": "A digital global citizen mainly uses",
+    "option1": "social networks to promote and deliberate on global issues",
+    "option2": "national databases",
+    "option3": "Paper work and documented data bases in office files",
+    "option4": "Government Portals and Official documents",
+    "": ""
+  },
+  {
+    "question": "Which type of global citizenship deals with cross-cultural understanding?",
+    "option1": "Cultural",
+    "option2": "Political",
+    "option3": "Environmental",
+    "option4": "Economic",
+    "": ""
+  },
+  {
+    "question": "Which one of the following best defines the globalization?",
+    "option1": "Enhanced global integration",
+    "option2": "Cultural divergence",
+    "option3": "Regional isolation",
+    "option4": "Closed economies",
+    "": ""
+  },
+  {
+    "question": "Globalization leads to",
+    "option1": "Mutual global interdependence",
+    "option2": "Increased domination",
+    "option3": "Cultural stagnation",
+    "option4": "Increased economic tariffs and trade barriers",
+    "": ""
+  },
+  {
+    "question": "Interconnectedness promotes",
+    "option1": "Shared solutions to global problems",
+    "option2": "Increased dependence and colonial socio-economic structure between nations",
+    "option3": "Regional wars and isolation",
+    "option4": "Cultural conflicts",
+    "": ""
+  },
+  {
+    "question": "Which one of the following trait essential to be a global citizen?",
+    "option1": "Tolerance",
+    "option2": "Ethnocentrism",
+    "option3": "Isolationism",
+    "option4": "All of these",
+    "": ""
+  },
+  {
+    "question": "A Global Citizen is expected to",
+    "option1": "Act locally; think globally",
+    "option2": "Ignore global events",
+    "option3": "Prioritize personal objectives and personal gains",
+    "option4": "All of these",
+    "": ""
+  },
+  {
+    "question": "Who is called as the 'Father of Panchayat Raj System' in India?",
+    "option1": "Balwant Rai Mehta",
+    "option2": "L M Singhvi",
+    "option3": "G V K Rao",
+    "option4": "Ahsok Mehta",
+    "": ""
+  },
+  {
+    "question": "Which is the primary and permanent body of Panchayat Raj system?",
+    "option1": "Gram Sabha",
+    "option2": "Standing Committee",
+    "option3": "Khap Panchayat",
+    "option4": "None of these",
+    "": ""
+  },
+  {
+    "question": "Panchayat Raj is a",
+    "option1": "Three tier system",
+    "option2": "Single layer system",
+    "option3": "Four tier system",
+    "option4": "Two tier system",
+    "": ""
+  },
+  {
+    "question": "Global Citizenship primarily emphasizes",
+    "option1": "Global interconnectedness",
+    "option2": "National Pride",
+    "option3": "Religious and social priorities of a person",
+    "option4": "Family connectivity and local governance",
+    "": ""
+  },
+  {
+    "question": "Which one of the following is not a type of global citizenship?",
+    "option1": "Exclusive global citizenship",
+    "option2": "Corporate global citizenship",
+    "option3": "Ethical global citizenship",
+    "option4": "Active global citizenship",
+    "": ""
+  },
+  {
+    "question": "A person who actively participate in global cause can be called as",
+    "option1": "Active global citizen",
+    "option2": "Digital global citizen",
+    "option3": "Nominal global citizen",
+    "option4": "Passive global citizen",
+    "": ""
+  },
+  {
+    "question": "Which type of global citizen emphasizes international law and human rights?",
+    "option1": "Legal",
+    "option2": "Economic",
+    "option3": "Social",
+    "option4": "Local",
+    "": ""
+  },
+  {
+    "question": "A digital global citizen mainly uses",
+    "option1": "social networks to promote and deliberate on global issues",
+    "option2": "national databases",
+    "option3": "Paper work and documented data bases in office files",
+    "option4": "Government Portals and Official documents",
+    "": ""
+  },
+  {
+    "question": "Which type of global citizenship deals with cross-cultural understanding?",
+    "option1": "Cultural",
+    "option2": "Political",
+    "option3": "Environmental",
+    "option4": "Economic",
+    "": ""
+  },
+  {
+    "question": "Which one of the following best defines the globalization?",
+    "option1": "Enhanced global integration",
+    "option2": "Cultural divergence",
+    "option3": "Regional isolation",
+    "option4": "Closed economies",
+    "": ""
+  },
+  {
+    "question": "Globalization leads to",
+    "option1": "Mutual global interdependence",
+    "option2": "Increased domination",
+    "option3": "Cultural stagnation",
+    "option4": "Increased economic tariffs and trade barriers",
+    "": ""
+  },
+  {
+    "question": "Interconnectedness promotes",
+    "option1": "Shared solutions to global problems",
+    "option2": "Increased dependence and colonial socio-economic structure between nations",
+    "option3": "Regional wars and isolation",
+    "option4": "Cultural conflicts",
+    "": ""
+  },
+  {
+    "question": "Which one of the following trait essential to be a global citizen?",
+    "option1": "Tolerance",
+    "option2": "Ethnocentrism",
+    "option3": "Isolationism",
+    "option4": "All of these",
+    "": ""
+  },
+  {
+    "question": "A global citizen must",
+    "option1": "Respect others rights",
+    "option2": "Ignore global crisis",
+    "option3": "Promote discrimination",
+    "option4": "Act against social justice",
+    "": ""
+  },
+  {
+    "question": "Which one of the following is not the responsibility of global citizens?",
+    "option1": "Ignoring refugee crisis and issues",
+    "option2": "Respect for the diversity and social harmony",
+    "option3": "Environmental stewardship",
+    "option4": "Engaging in global challenges",
+    "": ""
+  },
+  {
+    "question": "Ethics in global citizenship refers to",
+    "option1": "Moral principles guiding global conduct",
+    "option2": "legal rules",
+    "option3": "personal profits",
+    "option4": "Religious teachings",
+    "": ""
+  },
+  {
+    "question": "The 3Rs of sustainability include",
+    "option1": "Reduce, Reuse, Recycle",
+    "option2": "Reduce, Rebuild, Replant",
+    "option3": "Reduce, Reuse, Reform",
+    "option4": "Reduce, Recycle, Reward",
+    "": ""
+  },
+  {
+    "question": "Supporting international aid efforts reflects",
+    "option1": "Global solidarity",
+    "option2": "Nationalism",
+    "option3": "Economic Expansion",
+    "option4": "Mercantilism",
+    "": ""
+  },
+  {
+    "question": "Sharing knowledge across culture is an example of",
+    "option1": "Global Cooperation",
+    "option2": "National responsibility",
+    "option3": "Cultural dominance",
+    "option4": "Colonialism",
+    "": ""
+  },
+  {
+    "question": "Choosing eco-friendly transportation supports",
+    "option1": "Sustainability",
+    "option2": "Cultural heritage",
+    "option3": "Political reforms",
+    "option4": "Global inequality",
+    "": ""
+  }
+]
